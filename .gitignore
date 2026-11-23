@@ -1,0 +1,29 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Secrets & Environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.cxx/
+.kotlin/
+.firebase/
+
+# Android / Gradle
+.gradle/
+local.properties
+*.apk
+*.aab
